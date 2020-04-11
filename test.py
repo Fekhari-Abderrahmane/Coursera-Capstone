@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  9 19:56:16 2020
+###Capstone
 
-@author: Anonymous
-"""
-
-print("hello world")
+import pandas as pd
+import Numpy as np
+print("hello capstone")
